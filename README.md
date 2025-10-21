@@ -1,8 +1,40 @@
-## Hello, I'm Joseph!  👋
+# 👋 Hello, I'm Joseph Stegall
 
-I am a Computer Science student studying at Indiana State University.
+🎓 I'm a soon-to-be Computer Science graduate from Indiana State University with a strong interest in full stack development, backend systems, and software architecture. I'm passionate about learning new technologies, solving real-world problems through code, and contributing to meaningful projects.
 
-Skills:
-  - Programming Languages: Typescript, JavaScript, Python, PHP
-  - Frameworks/Libraries: React.js, Node.js, Next.js, TailwindCSS
-  - Databases: MySQL, MongoDB
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+JavaScript,
+Typescript,
+Python,
+Java
+
+**Frameworks & Libraries:**  
+React, Next.js, Vite, Node.js, Express,Tailwind CSS,
+Django, Flask
+
+**Databases:**  
+MySQL, Postgres,
+MongoDB
+
+---
+
+## 📈 Currently Learning
+
+- 🧠 C# & .NET for backend development  
+- ⚙️ CI/CD and DevOps fundamentals  
+- 🧪 Writing tests with Jest and other tools
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/josteg/)  
+- 📧 Email: stegalljoseph09@gmail.com
+
+---
+
+🔍 Always open to internships, junior roles, or collaboration on open-source/full-stack projects. Let’s build something great!
