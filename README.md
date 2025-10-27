@@ -13,20 +13,12 @@ Python,
 Java
 
 **Frameworks & Libraries:**  
-React, Next.js, Vite, Node.js, Express,Tailwind CSS,
+React, Next.js, Vite, Node.js, Express, Tailwind CSS,
 Django, Flask
 
 **Databases:**  
 MySQL, Postgres,
 MongoDB
-
----
-
-## 📈 Currently Learning
-
-- 🧠 C# & .NET for backend development  
-- ⚙️ CI/CD and DevOps fundamentals  
-- 🧪 Writing tests with Jest and other tools
 
 ---
 
