@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joseph Stegall
 
-🎓 I'm a soon-to-be Computer Science graduate from Indiana State University with a strong interest in full stack development, backend systems, and software architecture. I'm passionate about learning new technologies, solving real-world problems through code, and contributing to meaningful projects.
+🎓 I'm a Computer Science graduate from Indiana State University with a strong interest in full-stack development, backend systems, and software architecture. I'm passionate about learning new technologies, solving real-world problems through code, and contributing to meaningful projects.
 
 ---
 
